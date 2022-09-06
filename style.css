@@ -1,0 +1,32 @@
+
+         .products{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+         }
+         .product1{
+            border: 5px green solid;
+         } 
+         .product2{
+            border: 5px green solid;
+         }
+         img{
+            width: 150px;
+            height: 150px;
+         }
+         .paragraph1{
+            display: inline;
+         }
+         .paragraph2{
+            display: inline;
+         }
+         .drinks1{
+            display: flex;
+            justify-content: stretch;
+         }
+         .drinks2{
+            display: flex;
+            justify-content: stretch;
+         }
